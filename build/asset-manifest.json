@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MERIDAJC/A-RESTAURANTE.git/static/css/main.aa128370.css",
+    "main.js": "/MERIDAJC/A-RESTAURANTE.git/static/js/main.797eff29.js",
+    "static/media/cocteleria.jpg": "/MERIDAJC/A-RESTAURANTE.git/static/media/cocteleria.c5c44fb0fe80143457eb.jpg",
+    "static/media/portada.jpg": "/MERIDAJC/A-RESTAURANTE.git/static/media/portada.74d608e49793d562a642.jpg",
+    "static/media/licores.jpg": "/MERIDAJC/A-RESTAURANTE.git/static/media/licores.83dbc5debba682ac3665.jpg",
+    "static/media/costilla.jpg": "/MERIDAJC/A-RESTAURANTE.git/static/media/costilla.41994592cd5fcd5697b6.jpg",
+    "static/media/new york.jpg": "/MERIDAJC/A-RESTAURANTE.git/static/media/new york.ac5c9d5de9b8c3f68964.jpg",
+    "static/media/portehouse.jpg": "/MERIDAJC/A-RESTAURANTE.git/static/media/portehouse.f18bebf9c7b9168782cd.jpg",
+    "static/media/churrasco.jpg": "/MERIDAJC/A-RESTAURANTE.git/static/media/churrasco.84b17f0780797d08f95e.jpg",
+    "static/media/2.jpg": "/MERIDAJC/A-RESTAURANTE.git/static/media/2.ba023495887d957ca08a.jpg",
+    "static/media/3.jpg": "/MERIDAJC/A-RESTAURANTE.git/static/media/3.b357c0b98569a332f362.jpg",
+    "static/media/1.jpg": "/MERIDAJC/A-RESTAURANTE.git/static/media/1.97578e07d72732be86df.jpg",
+    "static/media/4.jpg": "/MERIDAJC/A-RESTAURANTE.git/static/media/4.8b0bb8b1623d431996ed.jpg",
+    "static/media/logo.png": "/MERIDAJC/A-RESTAURANTE.git/static/media/logo.3b7ea77d104f435ba57f.png",
+    "index.html": "/MERIDAJC/A-RESTAURANTE.git/index.html",
+    "main.aa128370.css.map": "/MERIDAJC/A-RESTAURANTE.git/static/css/main.aa128370.css.map",
+    "main.797eff29.js.map": "/MERIDAJC/A-RESTAURANTE.git/static/js/main.797eff29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa128370.css",
+    "static/js/main.797eff29.js"
+  ]
+}

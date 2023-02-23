@@ -1,0 +1,70 @@
+.contenedor-jumbo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    width: 1300px;
+    height: 468px;
+    margin: 100px auto;
+    background-color: aliceblue;
+    box-shadow: 0 3px 13px 5px rgb(132, 132, 173);
+ }
+
+ .imagen-jumbo{
+    height: 100%;
+    width: auto;
+    border-radius: 8px;
+ }
+ .contenedor-texto-jumbo{
+    text-align: center;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: 300px;
+    line-height: 1.5rem;
+ }
+ .nombre{
+    font-size: 40px;
+ }
+ .frase{
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+    
+ }
+
+ .texto{
+    font-size: 1.1rem;
+    text-align: justify;
+ }
+
+.footer{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   margin: 20px;
+   padding: auto;
+   border: 5px solid plum;
+   width: 1500px;
+   height: auto; 
+   background-color: rgb(205, 135, 86);
+}
+
+.dato{
+   display: flex;
+   align-content: center;
+   justify-content: center;
+   
+   width: 400px;
+ }
+ 
+.dato1{
+   display: flex;
+   align-content: flex-start;
+  
+   width: 700px;
+ }
+.imagen{
+   width: 150px;
+   height: 150px;
+}

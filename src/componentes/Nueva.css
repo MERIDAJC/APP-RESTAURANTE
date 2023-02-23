@@ -1,0 +1,41 @@
+
+
+
+.contenedor-conocenos{
+    display: flex;
+    flex-direction:  column-reverse;
+    align-items: center;
+    justify-content: center;
+    width: 1300px;
+    height: 468px;
+    margin: 100px auto;
+    
+ }
+
+ .imagen1{
+    height: 100%;
+    width: 400px;
+    border-radius: 8px;
+ }
+ .contenedor-texto-conocenos{
+    text-align: center;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: 300px;
+    line-height: 1.5rem;
+ }
+ .nombre{
+    font-size: 40px;
+ }
+ .frase{
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+    
+ }
+
+ .texto{
+    font-size: 1.1rem;
+    text-align: justify;
+ }
+

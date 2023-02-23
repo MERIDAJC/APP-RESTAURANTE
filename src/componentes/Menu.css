@@ -1,0 +1,38 @@
+
+.contenedor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    width: 1000px;
+    height: 400px;
+    margin: 50px 100px 50px;
+    background-color: aliceblue;
+    box-shadow: 0 3px 13px 5px rgb(132, 132, 173);
+ }
+
+ .imagen{
+    height: 100%;
+    width: auto;
+ }
+ .contenedor-texto{
+
+    text-align: center;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: 500px;
+    line-height: 1.5rem;
+ }
+ .articulo{
+    font-size: 30px;
+ }
+ .articulo-costo{
+    font-size: 2.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+    
+ }
+ .articulo-texto{
+    font-size: 1.1rem;
+    text-align: center;
+ }
